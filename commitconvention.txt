@@ -1,0 +1,5 @@
+If applied this commit will, X
+
+X as subject line starting with capital letter and no dot at end.
+a max of 50 characters, and rest of body wrapping at max 72.
+i.e X= "Refactoring function Y for readability and efficiency"
